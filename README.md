@@ -14,7 +14,6 @@ An ARKit demo application for displaying 3D models.
 - [x] Pan gesture to move the object.
 - [x] Pich gesture to scale the object.
 - [x] Rotation gesture to rotate the object.
-- [x] Download Images using AlamofireImage
 
 ## Requirements
 
